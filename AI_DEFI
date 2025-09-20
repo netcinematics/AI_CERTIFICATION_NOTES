@@ -73,7 +73,14 @@ loops if reasoning on llm
 
 concepts into impact, in prod.
 
+### extra
 
+mask enhanced auto regressive prediction
+
+PRE-TRAINED 
+MTP - Mext Token prediction
+MLM - masked language modeling 
+improved readining by mask words.
 
 
 
