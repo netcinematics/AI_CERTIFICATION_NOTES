@@ -10,7 +10,48 @@ hype slideware demo
 api wrapper
 practical evaluation framework 
 finite state machine 
-ReACT json?
+Agent - LLM in loop of reasoning.
+Acting. Tools. Feedback.
+traditional vs agentic
+predefined vs dynamic decision loop.
+contextaware tooluse
+linear vs iterative self correcting
+data-logic-response vs
+dynamic, what to do, how to do it,
+when to adapt in realtime.
+llm as core controller
+user request -> agent core
+- tools
+- memory
+- plan
+tools
+- calculator 
+- rag
+- search
+- custom 
+plan
+- reflection 
+- critic
+- cot
+- tree of thought
+
+### single step vs ReAct agent
+single llm parse execute return
+
+ReAct - reason and act
+dynamic loop of "thought, action, and observation"
+that mimics how humans solve complex problems.
+
+OROMOT: solve this problem 
+ITERATIVly with 
+thought/action/observation loop.
+memory->prompt->llm->parse
+->ReACT json->execute ->
+problem solve?
+circuit breaker?
+compute budget?
+vocab budget?
+memory or return.
 budget, compute or vocabulary.
 termination by supervisor.
 heirarchy state machine
