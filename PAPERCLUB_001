@@ -1,0 +1,16 @@
+paper Club
+
+geometry self- attention
+rgbd semantic segmentation.
+cvpr 2025 - computer vision.
+
+DFormer v2
+
+"Problem domain"
+assign class to each pixel
+of semantics.
+rgb-d depth, 
+image data depth data
+four channel encoder
+"Main GOAL"
+geometric clues
