@@ -1,5 +1,6 @@
 paper Club
 
+# RGBD viz ai
 geometry self- attention
 rgbd semantic segmentation.
 cvpr 2025 - computer vision.
@@ -14,3 +15,35 @@ image data depth data
 four channel encoder
 "Main GOAL"
 geometric clues
+depth map.
+
+spatial function 
+identity matrix, softmax?
+
+weighted summation.
+element wise multiplication 
+softmax dot product
+activation functions 
+
+is softmax non linear
+
+relu non linear
+
+why is non linear important 
+
+vanishing gradient
+
+Q K V G
+Erik brown. my work coder
+
+
+## personal notes
+mentality_modalities
+
+aMENTaMODEa - gotta switch modes of mentality.
+we appear traped in singular and REPETITIVE 
+echoes of singular modality.
+a phenomza of aSOLOaFOCOa.
+use ai to hold_focus across modes.
+self-define modes.
+
