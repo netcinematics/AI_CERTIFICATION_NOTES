@@ -33,3 +33,22 @@ quantitative
 llm judge llm 
 
 human annotations 
+
+trajectory
+num steps
+
+convergence 
+
+how close to optomal.
+
+min steps
+
+convergence score
+
+time on optimal path.
+
+score 1 is 100% optimal
+
+unnecessary step
+
+skewd data.
