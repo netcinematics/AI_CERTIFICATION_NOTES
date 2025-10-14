@@ -30,3 +30,31 @@ reduce hallucination
 knowledge graph 
 - deep relational reasoning
 - causal analysis
+
+complex with many dimensions.
+
+join table. cypher or sql
+
+pattern match
+
+query knowledge graph.
+
+entity extraction agent
+entity resolution agent
+schema generation ahent
+- grammar rules
+- edges
+- validates
+
+how it builds knowledge.
+
+files suggestion agent
+data collector agent
+critic agent
+generation agent
+linker agent (entity)
+schema agent gives spproval
+
+graph integration. 
+store in a graph dayabase 
+of nodes 
