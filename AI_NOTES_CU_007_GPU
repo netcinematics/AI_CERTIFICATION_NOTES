@@ -1,0 +1,60 @@
+AI_NOTES_CU_007_GPU
+
+condensation
+
+graphic process unit
+
+matrix multiplication 
+transform matrix
+
+dot product (multiply and add)
+parrelized dot product
+
+self-attention computation.
+query vector
+attention score
+soft max
+attention -weighted
+attention matrix
+
+transpose transform
+tensors
+register
+
+matrix parallelization 
+multiple threads 
+cuda
+
+warp schedule on gpu cores
+3 threads, 1000s cores
+"blocks of warps"
+parallelize matrix 
+multiplications.
+
+quantization
+optimization
+same number less memory
+
+load into register binary.
+add vector tuple row tensor.
+transpose 
+
+quantize process
+half memory wasted storage for zeroes
+fill space with zeroes.
+losing precision.
+but faster compute.
+
+
+pro experience:
+uni
+GIS
+auth
+crypto
+3D
+transformer arch
+tensor flow arch
+CU Tom Yeh
+
+
+
