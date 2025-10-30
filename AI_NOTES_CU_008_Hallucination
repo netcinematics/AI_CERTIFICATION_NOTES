@@ -1,0 +1,27 @@
+AI_NOTES_CU_008_Hallucination
+
+Hallucination by Hand ✍️
+
+​LLMs don’t just make mistakes—they hallucinate with confidence. In this keynote, I will crack open the black box and trace hallucination step by step, revealing exactly how and why it emerges:
+
+​Forced Softmax – least of the bad options
+
+​Sampling chaos – randomness fueling fiction
+
+​Attention drift – misplaced focus
+
+​Cosine confusion – misleading similarity
+
+​Factual but hallucinated – true in general but untrue here
+
+​Then we use:
+
+​RAG grounding
+
+​Attention sinks
+
+​Rerank filtering
+
+​Context weighting
+
+​Detection scoring
