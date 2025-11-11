@@ -1,0 +1,77 @@
+GOOGLE_AGENTICS_DAY_2:
+
+MCP - Interoperability, and Tools.
+
+
+
+MCP - standard for integration.
+
+
+
+Decouple reasoning and acting.
+
+
+
+NEW DATA / NEW ACT
+
+
+
+Know something do something
+
+
+
+FUNCTION TOOLS ADK (python code)
+BUILT IN TOOLS inside LLM (google search grounding)
+AGENT TOOLS (invoke agent as if it is tool)
+
+
+TAXONOMY
+
+information retrieval
+Human Loop tools.
+
+
+RULES
+
+documentation is paramount
+clarity is key
+instruction manual
+describe action not how.
+Let LLM do reasoning.
+Separation of concern.
+Good tool - high level task
+abstract away underlying complexity.
+design for concise output
+do not put data in context
+return summary or URI
+keep the context clean
+errors schema evaluation
+turn failure into something actionable
+
+
+LSP
+
+
+
+DESIGN:
+
+MCP HOST, manages, enforces
+MCP CLIENT - communication module, RPC 2.0
+MCP SERVER - advertise services, capabilities tools
+separation host has reasoning, modularity
+Streamable HTTP, stateless.
+Tools are core concept.
+Protocol JSON schema, specs.
+Host knows how to execute.
+Response, structured, unstructured (raw txt).
+Avoid Context Bloat.
+
+
+PUBLIC MCP REGISTRY - network effect.
+
+dynamic capabilities.
+decoupling reasoning from tools
+RAG TOOL RETRIEVAL
+
+
+
