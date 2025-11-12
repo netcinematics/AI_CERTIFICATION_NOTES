@@ -1,0 +1,87 @@
+GOOGLE_AGENTICS_DAY3
+
+Day 3 (Context Engineering: Sessions & Memory)
+Welcome to Day 3.
+
+This whitepaper explores context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
+
+In the codelabs, you will learn how to make agents stateful by managing conversation history through context engineering in ADK, and working memory within a session, allowing your agent to remember context and have coherent, multi-turn conversations. In the second notebook, you'll give your agent long-term memory that persists across different sessions.
+
+
+1 context engineer (foundation)
+  - stateless to statefulness
+  - adapt to input, manage data
+  - few-shot reasoning
+  - context rot (dynamic history mutation)
+  1. get memories
+  2. block items
+  3. session data
+  4. update long term memory 
+
+2 sessions interactions 
+   - session object
+   - mutability, summary 
+   - MAS (multi-agent systems)
+   - all write to same log.
+   - blackbox isolation.
+    - framework agnostic.
+
+
+3 memory
+   - workbench
+  - filing cabnet
+   - model armor
+   - TTL scrub identity
+   - compaction stradegy,
+   - sliding window
+  - recursive summary
+   - keep essence, drop tkn count.
+   -async background compaction
+
+rjack?
+knowing what
+knowing how
+rememvers processed.
+structured user profile
+rolling summary 
+contact card
+knowledge graph - how is x relayed to y and z
+memory scope - global , user
+extract, consolidate 
+relevance decat
+provenance, confidence scores,
+revance decays, when not used
+
+
+asynchronously saved memory store
+memory as a tool
+agent manages, c
+create memory
+check memore
+retrieval
+blend scores,
+relevance
+recency,
+importance
+useful context
+proactive - preload
+reactive, gets data on trigger
+INFERENCE,
+store in llm
+placement signal authority
+user profile
+separated from PROMPT 
+testing
+rigorous
+precision recall
+latency
+under 200ms
+task success
+use llm judge across test xases
+work ench compaction
+file cabnet
+memories
+fact tecal to 
+personalized assistant 
+lear personalize
+
