@@ -57,9 +57,51 @@ context window—a process known as Context Engineering.
    - keep essence, drop tkn count.
    -async background compaction
 
+
+q n a
 merging duplicates.
 from amnesia to memory.
+truncation
+static instructions 
+(non negotiable safety policy)
+end user message (clean)
+turn Instructions - dynamic steering 
+dynamic CONTEXT 
+context caching, store, inject not call llm
+faster and cheaper.
 
+memories stored in vector database.rag
+many memory designs.
+short term memory compaction,
+how to carry over memory long term
+episodic, semantic, procedure memory
+add, retrieve, update, prune.
+hybrid: keyword search, rankers, rerankers.
+graph based db connectedness.
+do not limit yourself w memz
+
+mechanisms, of inconsistent user claim
+maintain good memories:
+extraction, consolidate - compaction.
+signal in noise 
+data provenance.
+defer to higher trust data.
+memory system, memory bank.
+define exact memory to safe.
+prompt injection (malicious query)
+model armor - detects PI.
+INFERENCE - callout memories
+use this woth caution.
+
+rag - retrieval relevance
+metrics useful for different things
+non retrieval - what is
+injected into context?
+actual solution?
+collection of sub behaviors.
+llm as a judge. rate this on requirements.
+grounded metrics - faithfulness.
+catch regression.
 
 rjack?
 knowing what
