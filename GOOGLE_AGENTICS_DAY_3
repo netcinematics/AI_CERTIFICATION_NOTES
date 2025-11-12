@@ -3,10 +3,29 @@ GOOGLE_AGENTICS_DAY3
 Day 3 (Context Engineering: Sessions & Memory)
 Welcome to Day 3.
 
-This whitepaper explores context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
+This whitepaper explores context engineering as the 
+practice of dynamically assembling and managing information within an 
+agent's context window to create 
+stateful and personalized Al experiences. It defines 
+Sessions as the container for a single, 
+immediate conversation's history, and 
+Memory as the long-term persistence mechanism.
 
-In the codelabs, you will learn how to make agents stateful by managing conversation history through context engineering in ADK, and working memory within a session, allowing your agent to remember context and have coherent, multi-turn conversations. In the second notebook, you'll give your agent long-term memory that persists across different sessions.
+In the codelabs, you will learn how to make 
+agents stateful by managing conversation history through 
+context engineering in ADK, and working memory within a 
+session, allowing your agent to remember 
+context and have coherent, multi-turn conversations. In the second 
+notebook, you'll give your agent 
+long-term memory that persists across different sessions.
 
+ whitepaper explores the critical role of 
+Sessions and Memory in building 
+stateful, intelligent LLM agents to empower developers to create more powerful, 
+personalized, and persistent AI experiences. To enable Large Language Models 
+(LLMs) to remember, learn, and personalize interactions, developers must 
+dynamically assemble and manage information within their 
+context window—a process known as Context Engineering.
 
 1 context engineer (foundation)
   - stateless to statefulness
