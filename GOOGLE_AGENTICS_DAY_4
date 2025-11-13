@@ -66,6 +66,24 @@ observability
 check if chef follow recipe
 log diary - JSON cot
 tracing - footsteps
+
+whitepaper addresses the challenge of assuring quality in Al agents by introducing a holistic evaluation framework. The necessary technical foundation for this is Observability, built on three pillars: Logs (the diary), Traces (the narrative), and Metrics (the health report), enabling a continuous feedback loop using scalable methods like LLM-as-a-Judge and Human-in-the-Loop (HITL) evaluation.
+
+For today's codelabs, you'll learn how to use logs, traces, and metrics to get full visibility into your agent's decision-making process, allowing you to debug failures and understand why your agent behaves the way it does. In the second codelab, you'll learn how to evaluate your agents to score your agent's response quality and tool usage.
+
+effective
+efficient 
+robustness
+safety
+
+glass oc
+logs traces metrics
+hybrid
+llm as judge hitl
+
+agent quality flywheel.
+
+
 cause effect
 open telemetry 
 debug multi-step failure
@@ -84,5 +102,57 @@ design testability
 trajectory is truth
 human is the arbiter
 human defines good.
+
+
+q N a
+
+subtle bias
+sian gooding
+- preference bias
+-- prefer self generated 
+- verbosity bias
+-- more detailed, confident 
+- multi agent sycophancy
+-- pushback
+- hedge bet score bias
+-- 5 of ten not primed median guess
+- agent trajectory and outcome
+-- outcome bias
+evaluate evaluators.
+- over trained tokens
+- recency bias
+- evaluate evaluator
+
+agent eval:
+no shortcuts
+grounding
+profound knowledge
+provide references 
+llm as judge - ultimated
+human review (code)
+creative when forced to answer
+non-deterministic era
+
+multi agent team
+like soccer - need good
+interactions at ORCHESTRATION lauer.
+architect easy evaluation.
+strong reasoning for judge and
+orchestrator and hitl.
+
+agent development kit.
+
+not about perfection
+
+football team
+- intentional bad player
+error compounds quickly.
+even just 10% off
+massive shew
+ablation test in ml
+designed to fail.
+more interaction - more context bloat
+kwep interactions to minimum.
+
 
 
