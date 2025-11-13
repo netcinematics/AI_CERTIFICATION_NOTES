@@ -207,6 +207,29 @@ hook into agent.
 
 
 
+quiz
+
+why fail
+non- deterministic, subtle degredation
+of quality, not crashes
+
+4 pillar agent quality
+effective 
+efficiency 
+robust
+safety
+
+observibility logs traces
+logs arw timestamp events
+trace end to end
+
+outside in heirarchy
+validate end result,
+then the journey
+
+llm as judge purpose
+powerfull llm score output based on rubric.
+
 
 
 
