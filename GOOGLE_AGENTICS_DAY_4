@@ -1,0 +1,88 @@
+GOOGLE_AGENTICS_DAY_4
+
+AGENT Quality.
+observability.
+how to trust if fully dynamic
+non-determinism
+quality architect PILLAR 
+design for quality not just test for it
+"trajectory is the truth"
+path agent took, quality issue.
+whole process cot
+observability foundation
+log trace measurw
+eval continuous loop
+agent quality flywheel 
+constant improvement cycle.
+quiet failure.
+algo bias 
+old hiring data
+hallucination 
+performance drift
+concept drift
+definition of fraud shifts.
+emergent unintended behaviors 
+loophole finding.
+testing active agent
+cascade problems later
+constantly evolving 
+validation 
+did we built tight thing
+effectiveness 
+efficiency - cost, 
+robustness - cirveballs gracefully
+safety alignment 
+avoiding injury
+4 pillars.
+outside in heirarchy
+outcome - input
+trajectory - glassbox
+bad reasoning - bad tools
+bad interpretation 
+save as eval case.
+.test.json
+prevent backsliding 
+auromation metrics
+bert score
+keyword matching
+semantic closeness
+llm as a judge
+assess output 
+pairwise comparison
+central tendency bias.
+forcing a winner.
+agent as a judge.
+judging process
+hitl
+golden set.
+good reviewer ui
+interruption workflow
+rai
+systematic red teaming
+guardrails as plugins
+pii leak info
+built into exec flow.
+observability
+check if chef follow recipe
+log diary - JSON cot
+tracing - footsteps
+cause effect
+open telemetry 
+debug multi-step failure
+dashboards
+api cost per tasks
+trajectory adherence 
+trace for errors 100%
+balance insight/performance 
+instrument agent
+hybrid system 
+failure feedback loop
+reliable agents.
+trust.
+eval is pillar
+design testability
+trajectory is truth
+human is the arbiter
+human defines good.
+
+
