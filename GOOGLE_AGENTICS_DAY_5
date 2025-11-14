@@ -17,3 +17,130 @@ You'll also learn how to take your agent from your local machine to a
 production-ready, scalable service, by deploying your agent to 
 
 Vertex AI Agent Engine on Google Cloud.
+
+demo into
+
+deploying, scaling, a2a
+
+80% infrastructure not AI.
+
+MLOps. Agents dynamic, ORCHESTRATION 
+
+non-deterministic.
+
+scalable state management.
+
+nightmare for budgeting.
+
+budgeting limits.
+
+1. automated eval
+2. ci cd pipeline
+3. observability 
+
+people and process.
+
+guardrail governance 
+
+mlops
+prompt engineers
+- deep domain knowledge
+- constitution 
+ai engineers
+- guardrails
+- rag
+- automation
+
+tight coordination.
+
+eval journey.
+
+manual human review.
+
+load test
+integration test
+gate deploy ro prod
+
+pytest
+
+blue green deployment 
+
+a/b testing.
+
+version everything.
+
+for rollback to known good version.
+
+data leakage.
+
+memory poisoning.
+
+saif
+policy constitution 
+guardrails filtering
+output filtering
+hitl escalation
+continuous assurance
+red teaming
+
+observe
+act
+evolve
+
+sensory system 
+log
+trace
+metrics - report card.
+
+traces link logs together,
+causal chain of events
+
+decouple logic from state
+
+speed reliability cost
+
+idempotent - calling twice
+
+
+balancing act.
+
+containment,
+triage,
+resolve, patch
+rapid response
+
+evolve.
+
+proactively.
+
+see problem, fail case 
+becomes test case.
+
+interoperability 
+silos
+
+mcp - tools, api
+a2a - agent do action for objective.
+
+auto repair - mechanic, uses tools.
+
+discoverable
+
+agent cards.
+
+robust tracing.
+
+central registry architecture.
+
+discovery bottleneck 
+
+prevent redundant dev.
+
+process, people gov.
+
+80% last mile gap.
+
+
+
+
+
