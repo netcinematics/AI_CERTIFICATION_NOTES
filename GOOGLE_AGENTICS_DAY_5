@@ -267,6 +267,28 @@ avoid tangent.
 monitor interrupter
 seperate critic agent.
 
+control cost:
+- prompt caching.
+- describe tools.
+- do jot need to recompute common prompt.
+- model routing
+- pro model or
+- gemini flash lite.
+- constraint sampling
+- sample from small space
+- hardware
+- kb casching
+- quantizing
+- guardrails callbacks, plugins
+- model armor
+- speculative decoding
+
+final thoughts:
+early days, need community 
+- where things are working well
+continue exploring.
+vertex and cloud.
+insights to make product better.
 
 
 
