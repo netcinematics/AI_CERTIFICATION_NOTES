@@ -140,6 +140,136 @@ process, people gov.
 
 80% last mile gap.
 
+agentips
+eval gated
+no ahent in prod without 
+safe rollout
+canary, blue/green
+circuit breaker,
+blast radius 
+observe act resolve 
+use notebook lm
+to mindmap and ask questions.
+
+qna
+
+will grannis cto cloud
+
+models, reasoning,
+token efficiency 
+- multi agent mesh
+
+reasoning thinner
+
+much more complicated.
+
+agents across multiple structures.
+
+break down task into subagents
+latency and quality.
+
+comnercial systems,
+more and more tools
+heirarchy of subagents
+microservices - with statefullness
+not statelessness.
+
+tooling: evals as deploy gate
+agents writing code to
+include other agents.
+each organization different.
+
+offline agent evaluators.
+confidence, speed queue.
+primitives in place 
+cloud trace sessions.
+manual automated
+feedbackloops.
+
+value curve
+partition along use case
+and guard rails.
+
+which agent should I trust.
+quality gates.
+a2a agent marketplace.
+
+currency of trust.
+security, sophisticated attack.
+
+authentication hopping.
+
+inception of
+agent evaluate ahent
+
+a2a stamdard for modernization 
+tech debt reduced by agentics.
+
+agent payments protocol.
+b2b transformed.
+
+enable value transaction.
+quality code by default.
+
+legacy codebases.
+breaking monoliths into microservices.
+
+stochastic nature.
+
+security of a2a
+untrusted, must evaluate all.
+mandate digital credentials 
+auth - tokens, public key, now
+reauthenticate - every agent.
+authority police gateway
+
+a2a ontop of existing enterprise.
+gayeway access tokens,
+rate limiting.
+avoid in advance.
+
+secure mcp for agents.
+
+agent builder novelty.
+
+agent swarms, accountability.
+zero trust security.
+
+layers of telemetry on a 
+task by task basis.
+
+orchestrator agent 
+and sub agent.
+
+cloudy patterns.
+trust tiers.
+
+build around signature of agents
+telemetry sessions.
+
+agent registry 
+follow foorprints.
+
+small teams
+kpis goals.
+
+heirarchy model:
+planners, reviewers, 
+optimizers. hitl.
+
+governance
+compliance
+
+how to downgrade:
+control to degrade
+avoid echo chamver
+avoid tangent.
+monitor interrupter
+seperate critic agent.
+
+
+
+
 
 
 
