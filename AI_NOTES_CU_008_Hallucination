@@ -2,7 +2,10 @@ AI_NOTES_CU_008_Hallucination
 
 Hallucination by Hand ✍️
 
-​LLMs don’t just make mistakes—they hallucinate with confidence. In this keynote, I will crack open the black box and trace hallucination step by step, revealing exactly how and why it emerges:
+​LLMs don’t just make mistakes—they hallucinate with confidence.
+In this keynote, I will crack open the black box 
+and trace hallucination step by step, revealing exactly how and 
+why it emerges:
 
 ​Forced Softmax – least of the bad options
 
@@ -25,3 +28,96 @@ Hallucination by Hand ✍️
 ​Context weighting
 
 ​Detection scoring
+
+____
+
+hallu detect correct
+
+factual accuracy
+
+main prob
+
+____
+
+multiple levels,
+rag, tools,
+emulate process:
+self consistent check
+exact same response
+but numbers differet
+sellf consistent check:
+same question - answer changes.
+inconsistency.
+
+### math
+behind phenomenon
+
+major source is tool does not rxist.
+non exist. wrong tool
+tool registry.
+go into log.
+toolcall timestamp.
+not grounded.
+
+llm as judge.
+
+human expert.
+
+take prompt to LLM.
+
+gemini. paste back to
+hallu detector.
+
+____
+### concept evolution 
+
+gpt, rag, agent
+
+
+
+
+
+llm and tag different
+
+gpt
+probability 
+softmax - hidden feature 
+linear projection 
+decoding
+
+creative temperature 
+
+attention Mechanism 
+
+dot product of matrix multiplication.
+
+force model to pick a choice
+
+sink token - ignore
+
+math phenomena of 
+pick bad prob around
+dot product and soft max.
+confirm by 
+
+self consistency check
+____
+
+### vector db
+
+most rag
+
+cosine similarity
+
+filter one 
+
+reranker
+
+score for relevance
+
+
+reranking remove hallucination 
+polluting CONTEXT 
+math llm
+softmax
+
