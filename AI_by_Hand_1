@@ -1,0 +1,42 @@
+Inside the blackbox.
+
+Predicting a triangle (visually) with probability between 0 / 1.
+
+discriminative AI of many features to small features.
+
+Prompt completion.
+
+distribution sampling - unpredictability.
+
+dice roll inside blackbox. Every time unique answer.
+
+token predicts next token.
+
+Next word score. 
+
+### TRANSLATION - TEXT to SPEECH.
+
+source language input
+
+target language output
+
+encoder - take input sequence = generate representation.
+
+capture useful information in tokens.
+
+pass tokens to decoder,
+
+input sentence to many tokens.
+
+Traditional RNN.
+
+Attention mechanism allows encoder to pay more 
+
+attention to every token - not just one.
+
+Output - generate waveform (audio token).
+
+Generator Network. 1 token is 3ms. = 4 token 12ms.
+
+
+
