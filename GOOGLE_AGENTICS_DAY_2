@@ -1,0 +1,185 @@
+GOOGLE_AGENTICS_DAY_2:
+
+MCP - Interoperability, and Tools.
+
+MXM PROBLEM - every model to every model blizzard.
+
+Day 2 (Agent Tools & Interoperability with 
+Model Context Protocol (MCP))
+Whitepaper focuses on external tools functions that 
+allow an agent to perform actions or retrieve 
+real-time data beyond its training set and introduces 
+best practices for designing effective tools. You'll learn about 
+MCP, highlighting its architectural components, 
+communication layer, risks and enterprise readiness gaps.
+
+In codelabs, you will create custom tools for your 
+agents by turning your own 
+Python functions into actions your agent can perform. You'll also use 
+MCP and implement long-running operations where an agent can 
+pause tool calls while waiting for human approval, before resuming.
+
+
+Dr. Alex wissner gross
+
+MCP - standard for integration.
+
+
+PRIMITIVES: tools, resources, prompts.
+
+GOALS:
+
+Decouple reasoning and acting.
+
+
+
+NEW DATA / NEW ACT
+
+
+
+Know something do something
+
+
+
+FUNCTION TOOLS ADK (python code)
+BUILT IN TOOLS inside LLM (google search grounding)
+AGENT TOOLS (invoke agent as if it is tool)
+
+
+TAXONOMY
+
+information retrieval
+Human Loop tools.
+
+
+RULES
+
+documentation is paramount
+clarity is key
+instruction manual
+describe action not how.
+Let LLM do reasoning.
+Separation of concern.
+Good tool - high level task
+abstract away underlying complexity.
+design for concise output
+do not put data in context
+return summary or URI
+keep the context clean
+errors schema evaluation
+turn failure into something actionable
+
+
+LSP
+
+
+
+DESIGN:
+
+MCP HOST, manages, enforces
+MCP CLIENT - communication module, RPC 2.0
+MCP SERVER - advertise services, capabilities tools
+separation host has reasoning, modularity
+Streamable HTTP, stateless.
+Tools are core concept.
+Protocol JSON schema, specs.
+Host knows how to execute.
+Response, structured, unstructured (raw txt).
+Avoid Context Bloat.
+
+
+PUBLIC MCP REGISTRY - network effect.
+
+dynamic capabilities.
+decoupling reasoning from tools
+RAG TOOL RETRIEVAL
+
+RISKS:
+Tool shadowing, dynamic capability injection.
+Need for strict governance.
+
+_____
+
+Q & A
+
+Agents doing science. Enable accelleration.
+
+Automating the process.
+
+Breakthroughs. NLP - substrate of human intelligence.
+Intelligence to do things in the world. Reinforcement.
+
+benchmarks - more and more complex. added abilities and utility PROXY for capability of quality.
+real world application.
+
+INTERNET of AGENTS: MESH
+
+liability.
+how many agents, want to exist in enterprise environment.
+Not information boundary. Fully automated.
+Single Enterprise Agent: fully observable.
+SINGLETON AGENT. TOOL USE ABSTRACTION.
+Corporate Personhood.
+
+How to design MULTI AGENT PROTOCOL.
+Resist prompt injection.
+
+Single Agent with Multi Agent beneath.
+
+Constrain input and output with schema constraints.
+
+reduce unwanted inputs and outputs. TRUST between SUB-AGENTS.
+
+1. Trusting TOOL SOURCES. Tool injection, is an unexpected tool.
+
+2. access control - tools trust user. Trust in user propagates through components.
+
+3. HITHL - question popped up to human operator.
+
+CONCURRENCY and UNSTRUCTURED NATURAL LANGUAGE WORLD
+
+Transforms from engineering problem to self-reflection.
+
+Prompt Injection - posioning attacks. Solution?
+
+Autonomous system - introspect - internal operations - steered through input stream.
+
+Frontier Labs - deep mind.
+
+INGREDIENTS for AGI:
+
+Have ingredients - or we dont.
+
+Builders build complexity. Show limits. 
+
+What comes after super intelligence?
+
+Solution to hardest problems in the world.
+
+Alex wissner-gross - connect with community connection - innovator - inventor - bright mind.
+
+QUIZ:
+
+What MCP Problem SOLVES:
+NXM
+
+MCP:
+Host , Client, Server,
+
+
+MCP RESOURCE:
+
+standard server response to host.
+
+MCP Confused Deputy Problem:
+
+legit permissions tricked by priviledged MCP server
+
+Transfer Protocol remote client server :
+
+Streamable HTTP.
+
+
+
+
+

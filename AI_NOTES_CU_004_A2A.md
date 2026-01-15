@@ -1,0 +1,41 @@
+# A2A - agent to agent
+
+
+Google protocol.
+common language for comms
+agent mcp
+http client remot
+ask for service 
+agent card for
+business card
+agent discovery
+url in domain
+quizzing 
+gui
+session id
+tasks states 
+submit 
+artifact response
+TASK management 
+send subscribe 
+get status cancel
+non streaming or
+streaming 
+llm CONTEXT 
+agent manager lang chain
+agent foscovery bu shent card
+
+task/send 
+mcp or a2a
+streaming human in loop
+,
+
+mohsena.ashraf@colorado.edu
+
+agent card:
+- skilks
+- name
+- url
+- auth
+google ap2
+agent payment protocol.

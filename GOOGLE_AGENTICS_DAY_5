@@ -1,0 +1,369 @@
+GOOGLE_AGENTIC_DAY_5:
+
+whitepaper provides a technical guide to the operational lifecycle of AI agents, 
+
+focusing on deployment, scaling and productionization. 
+
+It explores the challenges of transitioning agentic systems from prototypes to 
+
+enterprise-grade solutions, with special attention to A2A Protocol.  
+
+codelabs, how to build systems of multiple, independent agents that can 
+
+communicate and collaborate using A2A Protocol. 
+
+You'll also learn how to take your agent from your local machine to a 
+
+production-ready, scalable service, by deploying your agent to 
+
+Vertex AI Agent Engine on Google Cloud.
+
+demo into
+
+deploying, scaling, a2a
+
+80% infrastructure not AI.
+
+MLOps. Agents dynamic, ORCHESTRATION 
+
+non-deterministic.
+
+scalable state management.
+
+nightmare for budgeting.
+
+budgeting limits.
+
+1. automated eval
+2. ci cd pipeline
+3. observability 
+
+people and process.
+
+guardrail governance 
+
+mlops
+prompt engineers
+- deep domain knowledge
+- constitution 
+ai engineers
+- guardrails
+- rag
+- automation
+
+tight coordination.
+
+eval journey.
+
+manual human review.
+
+load test
+integration test
+gate deploy ro prod
+
+pytest
+
+blue green deployment 
+
+a/b testing.
+
+version everything.
+
+for rollback to known good version.
+
+data leakage.
+
+memory poisoning.
+
+saif
+policy constitution 
+guardrails filtering
+output filtering
+hitl escalation
+continuous assurance
+red teaming
+
+observe
+act
+evolve
+
+sensory system 
+log
+trace
+metrics - report card.
+
+traces link logs together,
+causal chain of events
+
+decouple logic from state
+
+speed reliability cost
+
+idempotent - calling twice
+
+
+balancing act.
+
+containment,
+triage,
+resolve, patch
+rapid response
+
+evolve.
+
+proactively.
+
+see problem, fail case 
+becomes test case.
+
+interoperability 
+silos
+
+mcp - tools, api
+a2a - agent do action for objective.
+
+auto repair - mechanic, uses tools.
+
+discoverable
+
+agent cards.
+
+robust tracing.
+
+central registry architecture.
+
+discovery bottleneck 
+
+prevent redundant dev.
+
+process, people gov.
+
+80% last mile gap.
+
+agentips
+eval gated
+no ahent in prod without 
+safe rollout
+canary, blue/green
+circuit breaker,
+blast radius 
+observe act resolve 
+use notebook lm
+to mindmap and ask questions.
+
+qna
+
+will grannis cto cloud
+
+models, reasoning,
+token efficiency 
+- multi agent mesh
+
+reasoning thinner
+
+much more complicated.
+
+agents across multiple structures.
+
+break down task into subagents
+latency and quality.
+
+comnercial systems,
+more and more tools
+heirarchy of subagents
+microservices - with statefullness
+not statelessness.
+
+tooling: evals as deploy gate
+agents writing code to
+include other agents.
+each organization different.
+
+offline agent evaluators.
+confidence, speed queue.
+primitives in place 
+cloud trace sessions.
+manual automated
+feedbackloops.
+
+value curve
+partition along use case
+and guard rails.
+
+which agent should I trust.
+quality gates.
+a2a agent marketplace.
+
+currency of trust.
+security, sophisticated attack.
+
+authentication hopping.
+
+inception of
+agent evaluate ahent
+
+a2a stamdard for modernization 
+tech debt reduced by agentics.
+
+agent payments protocol.
+b2b transformed.
+
+enable value transaction.
+quality code by default.
+
+legacy codebases.
+breaking monoliths into microservices.
+
+stochastic nature.
+
+security of a2a
+untrusted, must evaluate all.
+mandate digital credentials 
+auth - tokens, public key, now
+reauthenticate - every agent.
+authority police gateway
+
+a2a ontop of existing enterprise.
+gayeway access tokens,
+rate limiting.
+avoid in advance.
+
+secure mcp for agents.
+
+agent builder novelty.
+
+agent swarms, accountability.
+zero trust security.
+
+layers of telemetry on a 
+task by task basis.
+
+orchestrator agent 
+and sub agent.
+
+cloudy patterns.
+trust tiers.
+
+build around signature of agents
+telemetry sessions.
+
+agent registry 
+follow foorprints.
+
+small teams
+kpis goals.
+
+heirarchy model:
+planners, reviewers, 
+optimizers. hitl.
+
+governance
+compliance
+
+how to downgrade:
+control to degrade
+avoid echo chamver
+avoid tangent.
+monitor interrupter
+seperate critic agent.
+
+control cost:
+- prompt caching.
+- describe tools.
+- do jot need to recompute common prompt.
+- model routing
+- pro model or
+- gemini flash lite.
+- constraint sampling
+- sample from small space
+- hardware
+- kb casching
+- quantizing
+- guardrails callbacks, plugins
+- model armor
+- speculative decoding
+
+final thoughts:
+early days, need community 
+- where things are working well
+continue exploring.
+vertex and cloud.
+insights to make product better.
+
+kaggle:
+specialist agents a2a
+cross framework
+cross language 
+cross organization 
+
+customer support agent
+- product price, details, available 
+- vendor agent
+- product backlog agent
+- a2a compatible 
+- agent contact card
+- single function.
+- subagent
+- remote a2a.
+- point agent to agent.
+- inventory agent
+- shipping agent
+
+how to deploy?
+gCp
+free google cloud
+300 free credit
+for 90 days.
+
+weather agent:
+deploy to AGENT engine.
+free tier.
+region 
+deploy, query
+make sure agent ended.
+adk .
+
+
+quiz
+
+eval gated deploy
+no agent reach users without 
+comprehensive 
+auto eval.
+
+how a2a and mcp compliment:
+a2a delegates agents, mcp os for tools
+
+safe rollout swith traffic?
+blue green
+
+
+3 layers safety:
+policy def, sustem instructs,
+guardrail,
+hitl.
+
+
+observe act evolve loop, evolve?
+insight from prod to improve
+agent architecture.
+
+capstone project:
+
+brenda flynn kaggle.
+
+build ai agent
+consierge solve probs
+enterprise workflows
+agents for good
+freestyle
+
+looking for 
+individual
+1st of December 
+kaggle badge - cert
+capstone link.
+
+
+
+

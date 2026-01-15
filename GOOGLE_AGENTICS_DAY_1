@@ -1,0 +1,122 @@
+GOOGLE_AGENTICS_DAY_1
+
+ whitepaper introduces Al agents. It presents a taxonomy of agent capabilities, 
+emphasizes the need for an Agent Ops discipline for reliability and governance, 
+and discusses the importance of agent interoperability and security through
+identity and constrained policies.
+
+In today's codelabs, you'll be building your first 
+AI agent and your first multi-agent system, using 
+Agent Development Kit (ADK), powered by 
+Gemini, and giving it the ability to use 
+Google Search to answer questions with up-to-date information. 
+In the second codelab, the focus will be on 
+multi-agent systems, where you'll learn how to 
+create teams of specialized agents and 
+explore different architectural patterns.
+
+
+Decade of Agents: Capstone
+Decade of Agents.
+CAPSTONE. KAGGLE learner content.
+DAY 1
+• define agent. Thought loop.
+• "Introduction to Agents"
+• MODEL = BRAIN
+• TOOLS = HANDS
+• ORCHESTRATION = MEMORY / PLANNING
+• THINK, ACT, OBSERVE LOOP
+• scan scene,
+• LEVEL 0 - LEVEL 4 (self evolving tools)
+• CO-SCIENTIST and ALPHAEVOLVE
+• MULTI-AGENT SYSTEMS
+• CONTEXT ENGINEERING.
+• SOLVE COMPLEX WORKFLOWS.
+• INTEROPERABILITY A2A, HITL, monetary systems.
+Q&A SESSION:
+• brick layers to directors/conductors - mental leap, paradigm shift:
+conceptual shift: sequential tasks to solve for outcome not details.
+instructions to start, let it be AUTONOMOUS.
+It makes probabilistic decisions.
+Coding Agents. Less about clean code, more about functionality.
+Citizen Developers, non technical builders.
+• self-improving agentic system workflow shifts.
+2025 - year of production, encoding specifically.
+Ethan Mollack "vibe coding" - Jira ticket, fork off into the cloud.
+TENX coders to 100X and Citizen Devs into Builders.
+guardrails - prevent breaking rules.
+proving themselves - self-critical agents.
+agents acting as a team.
+• live mode = voice, computer use, on screens - multi modal.
+Modalities, layers on top. start simple, and layer on tools.
+computer use - grows scope. live mode - talk to GEM.
+multi-modal interactions. Minimal interaction = best agent.
+audio to audio. RAG fast way to get facts. Memory bank.
+Sub Agent, store data in memory, prompt cache close to accelerator.
+• key design principles for AI agent framework
+ADK - interoperability. No silos. Open-source. InterOP and CONNECT.
+A2A, MCP.
+LangChain, LangGraph, python function. Enterprise API wrappers.
+The whole spectrum is open - without security vulnerability.
+Better Together. And EXTENSIBLE. - Bring other models.
+• autonomous self reorganization
+RESEARCH, design patterns, principles. state of art.
+agent improves its own prompt. Agents evolve topology.
+Orchestrating team - to get the best result.
+"Multi-Agent-Design" - optimize the team of agents.
+Team of Agents: something is missing. CRITIC_AGENT.
+OPTIMIZE - measure quality, monitor drift,
+• ensure secure - pitfalls
+separation of concerns : A2A, MCP - move data to separate teams.
+responding with agent - not raw access: GOVERNANCE, POLICY.
+TELEMETRY - LOGGING. Cloud Monitoring - MONITORING.
+ENFORCEMENT. Understand the caller - before response.
+Nuance of implementation A2UI - evolved in parallel with implementation.
+Defense in depth, and least access principle.
+• emerging patterns: graph-based routing:
+specialized personas, subsets of tools - 5/10.
+routing to appropriate specialist. Tool retrieval.
+DB of 1000 tools - get 4 tools. better planning
+Better task decomposition. pick plan across tools important.
+have to come up with new plans mid-stream.
+decompose, orchestrate - dynamic JIT (maintenance).
+Patterns, break down complexity into SETZ of STEPS.
+Experiment with patterns - to get different context structure.
+CODE_LABS overview:
+HANDS on CODING Codelabs.
+Agent Development Kit.
+ADK framework.
+sessions, states, artifacts.
+long running tasks.
+GitHub google/adk-python
+&gt; ADK WEB
+&gt; ADK LITE
+Agent Authoring - universal standard.
+framework for production AI. From prototype to global scale.
+Prompt > llm > text
+Prompt > agent > think > recieve > observe.
+design multi agent system in adk
+different ways to design
+learn patterns, and when to use.
+patterns:
+sequential agent: pipeline, generate, write, edit
+parallel agent: independent, fan out,
+loop agent: iterate and refine, critic - until goal is met and stop.
+llm orchestrator.
+QA
+3 essential components ai agent
+Model, tools, Orchestration.
+order of 5 step problem solving:
+1 get the mission
+2 scan the scene
+3 think it through
+4 take an action
+5 observe results and iterate
+taxonomy LEVEL 2 problem solving:
+context engineering multi path solution
+Orchestration layers
+Conductor: think, act, observe, loop.
+level 4 self evolving:
+evolve ability to fill limitations.
+
+

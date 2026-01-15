@@ -1,0 +1,237 @@
+GOOGLE_AGENTICS_DAY_4
+
+AGENT Quality.
+observability.
+how to trust if fully dynamic
+non-determinism
+quality architect PILLAR 
+design for quality not just test for it
+"trajectory is the truth"
+path agent took, quality issue.
+whole process cot
+observability foundation
+log trace measurw
+eval continuous loop
+agent quality flywheel 
+constant improvement cycle.
+quiet failure.
+algo bias 
+old hiring data
+hallucination 
+performance drift
+concept drift
+definition of fraud shifts.
+emergent unintended behaviors 
+loophole finding.
+testing active agent
+cascade problems later
+constantly evolving 
+validation 
+did we built tight thing
+effectiveness 
+efficiency - cost, 
+robustness - cirveballs gracefully
+safety alignment 
+avoiding injury
+4 pillars.
+outside in heirarchy
+outcome - input
+trajectory - glassbox
+bad reasoning - bad tools
+bad interpretation 
+save as eval case.
+.test.json
+prevent backsliding 
+auromation metrics
+bert score
+keyword matching
+semantic closeness
+llm as a judge
+assess output 
+pairwise comparison
+central tendency bias.
+forcing a winner.
+agent as a judge.
+judging process
+hitl
+golden set.
+good reviewer ui
+interruption workflow
+rai
+systematic red teaming
+guardrails as plugins
+pii leak info
+built into exec flow.
+observability
+check if chef follow recipe
+log diary - JSON cot
+tracing - footsteps
+
+whitepaper addresses the challenge of assuring quality in Al agents by introducing a holistic evaluation framework. The necessary technical foundation for this is Observability, built on three pillars: Logs (the diary), Traces (the narrative), and Metrics (the health report), enabling a continuous feedback loop using scalable methods like LLM-as-a-Judge and Human-in-the-Loop (HITL) evaluation.
+
+For today's codelabs, you'll learn how to use logs, traces, and metrics to get full visibility into your agent's decision-making process, allowing you to debug failures and understand why your agent behaves the way it does. In the second codelab, you'll learn how to evaluate your agents to score your agent's response quality and tool usage.
+
+effective
+efficient 
+robustness
+safety
+
+glass oc
+logs traces metrics
+hybrid
+llm as judge hitl
+
+agent quality flywheel.
+
+
+cause effect
+open telemetry 
+debug multi-step failure
+dashboards
+api cost per tasks
+trajectory adherence 
+trace for errors 100%
+balance insight/performance 
+instrument agent
+hybrid system 
+failure feedback loop
+reliable agents.
+trust.
+eval is pillar
+design testability
+trajectory is truth
+human is the arbiter
+human defines good.
+
+
+q N a
+
+subtle bias
+sian gooding
+- preference bias
+-- prefer self generated 
+- verbosity bias
+-- more detailed, confident 
+- multi agent sycophancy
+-- pushback
+- hedge bet score bias
+-- 5 of ten not primed median guess
+- agent trajectory and outcome
+-- outcome bias
+evaluate evaluators.
+- over trained tokens
+- recency bias
+- evaluate evaluator
+
+agent eval:
+no shortcuts
+grounding
+profound knowledge
+provide references 
+llm as judge - ultimated
+human review (code)
+creative when forced to answer
+non-deterministic era
+
+multi agent team
+like soccer - need good
+interactions at ORCHESTRATION lauer.
+architect easy evaluation.
+strong reasoning for judge and
+orchestrator and hitl.
+
+agent development kit.
+
+not about perfection
+
+football team
+- intentional bad player
+error compounds quickly.
+even just 10% off
+massive shew
+ablation test in ml
+designed to fail.
+more interaction - more context bloat
+kwep interactions to minimum.
+
+
+
+autorator
+ensembles
+
+novelty of trajectory by clustering.
+see how new clusters appear
+visualization technology 
+golden set
+
+llm as a judge introduces bias.
+opinion could be error.
+rubric - checklist scoring guide.
+
+agentic evaluation is evolving.
+open telemetry.
+
+jiwel liu
+jiweliliu
+
+no code, multi-agent
+- planner (tasks)
+- coder (vis)
+- vision
+- writer
+
+llm with tool call.
+example:
+"GPU accelerated Data Science Agent"
+context usage
+
+maintain history 
+
+codelabs
+
+sita dev rel
+observability,
+eval
+4a:
+loga traces metrics 
+notes, recipe, metrics.
+avg latency 
+fail rate
+research paper finder agent!
+count paper.
+
+adk ui
+
+plugins and callbacks.
+hook into agent.
+
+
+
+quiz
+
+why fail
+non- deterministic, subtle degredation
+of quality, not crashes
+
+4 pillar agent quality
+effective 
+efficiency 
+robust
+safety
+
+observibility logs traces
+logs arw timestamp events
+trace end to end
+
+outside in heirarchy
+validate end result,
+then the journey
+
+llm as judge purpose
+powerfull llm score output based on rubric.
+
+
+
+
+
+

@@ -1,0 +1,133 @@
+# AI_DEFI
+
+agentic systems 
+autonomy deployment 
+tool augmented reasoning 
+structured reflection loops
+infrastructure aware orchestration
+agent-washing
+hype slideware demo
+api wrapper
+practical evaluation framework 
+finite state machine 
+Agent - LLM in loop of reasoning.
+Acting. Tools. Feedback.
+traditional vs agentic
+predefined vs dynamic decision loop.
+contextaware tooluse
+linear vs iterative self correcting
+data-logic-response vs
+dynamic, what to do, how to do it,
+when to adapt in realtime.
+llm as core controller
+user request -> agent core
+- tools
+- memory
+- plan
+tools
+- calculator 
+- rag
+- search
+- custom 
+plan
+- reflection 
+- critic
+- cot
+- tree of thought
+
+### single step vs ReAct agent
+single llm parse execute return
+
+ReAct - reason and act
+dynamic loop of "thought, action, and observation"
+that mimics how humans solve complex problems.
+
+OROMOT: solve this problem 
+ITERATIVly with 
+thought/action/observation loop.
+memory->prompt->llm->parse
+->ReACT json->execute ->
+problem solve?
+circuit breaker?
+compute budget?
+vocab budget?
+memory or return.
+budget, compute or vocabulary.
+termination by supervisor.
+heirarchy state machine
+sub states reflect
+superstate substate
+LangGraph?
+pillars of infrastructure 
+1. model selection
+small models for routing
+large for reasoning plan deep research 
+open models? gemma 3
+2. OPTIMIZE 
+mcts: monte carlo tree search
+more time to think
+repeated or sequence sample.
+expand exploration 
+or a deeper exploitation
+mcp for agent to agent 
+3. cost
+small llm for easy 
+llm for complex reason
+deactivate thinking mode 
+4. availability 
+multiple agent tasks gpu
+orchestra kubernetes or ray
+agent deployment 
+5. security 
+isolate code from host
+sanitize data
+human in loop hitl
+detect block some prompts 
+lang graph approve reject
+6. monitor production 
+metrics throughput 
+7. tools
+langfuse
+langsmith
+LangChain 
+langgraph
+langserve
+tgi
+whole system backtrace and
+7. benchmarks.
+macine learning task lifecycle 
+8. infrastructure 
+OPTIMIZE runtime vllm
+### ROADMAP 
+structured workflow of complex problem
+1. state agent tool use
+2 cot react
+3. multiagent swarm supervisor heirarchy 
+
+### checklist
+circuit breaker, non infinite loop
+local memory 
+
+### pitfalls
+routing checkpoints budget control
+loops if reasoning on llm
+
+concepts into impact, in prod.
+
+### extra
+
+mask enhanced auto regressive prediction
+
+PRE-TRAINED 
+MTP - Mext Token prediction
+MLM - masked language modeling 
+improved readining by mask words.
+
+## ama on Reddit 
+
+Agents:
+- make.com
+- n8n
+
+
+
