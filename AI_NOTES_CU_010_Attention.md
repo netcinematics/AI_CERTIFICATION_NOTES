@@ -97,3 +97,8 @@ Tons of matrix multiplication under the hood.
 
 
 __________________________________________
+
+FRONTIER:
+GDPL PPO PR DPO
+
+FOUNDATIONS: TPU
