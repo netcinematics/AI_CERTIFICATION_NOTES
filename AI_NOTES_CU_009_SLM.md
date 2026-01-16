@@ -4,9 +4,34 @@ _____
 
 SLM
 
-human-centric AI design.
+DEEP SEEK OCR (Optical Character Recognition):
+SLM (dense global attention).
+INPUT - whitepaper (pdf).
+DEEP ENCODER:
+SAM stands for Self Attention Module 
+- local window attention perception (tokenizer).
+CONV - down-sample conversion (16x).
+VISION TOKENS - n/16 (low activation).
+CLIP - stands for Contrastive Language Image Pre-training
+- dense global attention.
 
-limited by data not architecture.
+Training Metrics:
+- Vary's "compact language model"
+- next token prediction framework - to train DeepEncoder.
+- OCR dataset
+- plus 100M general data sample from LAION dataset.
+- 2 epochs,
+- batch size 1280.
+- AdamW optimizer
+- cosine annealing scheaduler
+- learning rate 5e-5.
+- training sequence length 4096.
+
+
+____
+
+
+AWS: limited by data not architecture.
 
 more data better, noisy labels, mismatches.
 
@@ -52,7 +77,7 @@ OPT-350M - AWS - 350M parameters - 100x smaller than GPT-3.5
 - 100x cheaper than GPT-3.5
 
 OPT - Facebook OpenAI Tool 
-OCR - Optical Character Recognition
+
 
 Compact Language Model. - text image alignment.
 

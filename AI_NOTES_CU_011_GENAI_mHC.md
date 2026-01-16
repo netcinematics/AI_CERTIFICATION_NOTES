@@ -1,3 +1,8 @@
+FOUNDATION (GEN AI) - FRONTIER (mHC)
+
+
+FOUNDATION (GEN AI):
+
 Inside the blackbox.
 
 Predicting a triangle (visually) with probability between 0 / 1.
@@ -46,7 +51,13 @@ convolution network - transform text to audio
 
 token to 3ms. 
 
+Generative transform from text to audio.
+
 ------------------------------
+
+________________________________
+
+FRONTIER (mHC)
 
 FRONTIER SEMINAR:
 
