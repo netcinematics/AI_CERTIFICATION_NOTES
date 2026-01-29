@@ -51,3 +51,4 @@ O then design a creative remedy, to counteract the semantic drift, and retrain t
 Q: why are you a top preformer?
 
 A: 26 years experience in technical architecture, I've developed a high-bandwidth informaiton assimilation process.Where assessments are a great opportunity to apply 10,000+ hours of research to modernize existing skills into advanced deliverables. I can manage a high volume of concurrent projects, because I operate at a nexus of technical math and creative abstraction.
+
