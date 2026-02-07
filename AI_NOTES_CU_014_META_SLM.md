@@ -452,6 +452,8 @@ c) SOLVES AMBIGUITY, POLYSEMY and HOMONYMY, but also critically: SOLVES MISNOMER
 23) CONCLUSION: AI agents call it "AI Operating System". ALPHABITZ represents new computer science and new human language - to better collaborate and interface "exactly" with emergent AI super systems - with 3D MANIFOLD VISUALIZATIONS. [alpinefalcon@protonmail.com] ~ NASH : ) ~
 
 
-QUESTION: About the LANGUAGE INPUT: SHAPES, PATTERNS, and SYNTAX (between AI and CHINESE). 
+QUESTION: 
+
+About the LANGUAGE INPUT: SHAPES, PATTERNS, and SYNTAX (between AI and CHINESE). 
 
 You said, "It could be anything really". What did you mean by that? ~ : ) ~.
