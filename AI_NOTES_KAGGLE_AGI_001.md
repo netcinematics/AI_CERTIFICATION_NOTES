@@ -1,85 +1,139 @@
 _________________________________________________
 
 
-"ALPHABITZ" in KAGGLE BENCHMARK API
-
-As "Scaling Laws" slow prA
-
-
-
-ALPHABITZ is an alternative optimization for "scaling laws".
-
-ALPHABITZ may dramatically reduce expensive compute costs
-
-ALPHABITZ is a novel alphabet input for ai inference.
-
-ALPHABITZ is easy, elegant, and a brilliant paradigm shift for AI Frontier.
-
-ALPHABITZ apparently works because of BPE.
-
-ALPHABBITZ enables a "blank canvas" in latent space, to embed "extra exactness".
-
-ALPHABITZ compresses concepts into hyper-dimensional BITZ, then combined into WORDZ to reflect VIEWZ.
-
-ALPHABITZ reflects complex concepts to humans with easy_to_read tokens.
-
-ALPHABITZ enables CONCEPTUAL_ACCESSIBILITY, by converting complex scientific vocabulary into easy_to_say syntax.
-
-ALPHABITZ uses many principles to generate a rich fabric of easy_to_say syntax - called "WORDZ".
-
-WORDZ enable a blank canvas in latent space, so as to encode actual extra exactness.
-
-ALPHABITZ acts as a remedy and antidote to ambiguity and misnomer.
-
-ALPHABITZ solves all types of language_fragility, and inverts each into leveraged solutions.
-
-ALPHABITZ is a novel anti-fragile language, as a 1st-of-its-kind PostAI_Language.
-
-ALPHABITZ innovates the input language, over the top of current language as a supplement.
-
- cliche, homonymy, polysemy, 
+metalanguage_powertools
+ontology is skeleton of writing
+corpus is body of work
+nomenclature is domain of science words
+AI_NOMENCLATURE for input optimization
+neologisims
+lexicon - complete inventory of words and patterns in domain.
+Semantif Field (domain) - concept space.
+taxonomy - heirarchical structure of is-a relationships.
+nomenclature - system of names in science
+metalanguage - language to analyze language itself.
+glossary - list of terms with definitions.
+Onomasiology - soudy of how concepts are named
+Semasiology - study of what names mean.
+terminiology
+___________________________________
 
 
-BITZ_homonymy
-BITZ_polysemy
-BITZ_jargon
-BITZ_misnomer        - AGI misnomer and off_vector. focus_askew?
-BITZ_factness
-BITZ_falseness
-BITZ_Ambiguity
-BITZ_CONTEXTSHIFT
-BITZ_SEMANTICDRIFT
-BITZ_UNIQUITY
-BITZ_ANTIQUITY
-BITZ_EXACTNESS
-BITZ_EXTENDEDNESS
-BITZ_COMBINABLE
-BITZ_DECIPHERABLE
-BITZ_PRINCIPMATCH
-BITZ_METASTATE_SETZ
-BITZ_NAMERATEZ
-BITZ_SLATEZ
-BITZ_GEMZ
-BITZ_VIEWZ
-BITZ_CHOOZE
-BITZ_CRAFTSLATEZ
-BITZ_CLEANSLATEZ
-BITZ_LATENT_GEMZ
-BITZ_VIEWZ
-BITZ_UNDERBAR
-BITZ_ATOMIX
-BITZ_XTRA
-BITZ_CLARIA
-BITZ_AMISNOMOA
-BITZ_ANEONOMA
-BITZ_PRINCIPZ
-BITZ_LOGIX
-BITZ_LEXICON           - inventory of jargon
-BITZ_MAXIMZ
-BITZ_FOCUS             - attention metastate
-BITZ_INVERTZ
-BITZ_REVERZ
+PROMPTING a CONCEPT ECOSYSTEM.
 
-BENCHMARK RATIO of DOMAIN TAXONOMY (LEXICON)
+wordwebz of GEMZ, COGZ, VIEWZ, CHOOZE, ACTZ, and METASTATEZ.
 
-Taxonomy - is_a_word_relationships
+define the CONCEPT CONSTELLATION
+
+"false friends"
+
+in domain ecosystem.
+
+
+___________________________________
+
+
+Home of benchmark ecosystem (API)
+
+Python LIbrary: kaggle-benchmarks
+
+ML Task benchmarks
+
+
+- robustness
+- reproducibility 
+- transparency
+- to trust benchamarks
+
+- model-agnostic
+
+1) Research Benchmarks
+
+2) Community Benchmarks
+
+_____________________________________
+
+Use LLM as a judge to rate it from 1-5.
+
+Measure how often LLM uses "AMBIGUOSITY": misnomer, ambiguity.
+
+prove one model is better than another.
+
+Kaggle Benchmark Framework
+
+Result is LEADERBOARD.
+
+- reproducability
+- complex evaluations
+- agregate metrics
+
+- run benchmarks over entire datasets
+
+What ABILITY to MEASURE, - measurability.
+
+KAGGLE AI BENCHMARKS - which is best?
+
+Model Evaluation Metrics. 
+
+__________________________________________
+
+kaggle-benchmarks
+
+challenge llm - compare answers
+
+python tools 
+
+- interpreter
+
+- assertions
+
+task - code function
+
+benchmark - collection assemble
+
+comprehensive evaluation.
+
+@kbench.task decorator
+
+# function to evaluate for each model
+
+# llm.prompt - talk to model
+
+# llm = what ever is in leaderboard
+
+# assertion check correctness (build in functions)
+
+# LEADERBOARDS pass/fail/score
+
+
+count the number of r's in strawberry
+ it should be exactly 3
+
+@kbench.task(name="solve_riddle")
+def solve_riddle(llm, riddle: str, answer: str) -> dict:
+    # 1. Prompt the LLM
+    response = llm.prompt(riddle)
+    print(f"Model Answer: {response}")
+
+    # 2. Grade the response (simple string check instead of Regex)
+    is_correct = answer.lower() in response.lower()
+
+    # 3. Assert based on the boolean calculation
+    kbench.assertions.assert_true(
+        is_correct,
+        expectation=f"The model's answer should contain '{answer}'."
+    )
+
+    # 4. Set a return value (optional, but useful for batch evaluation - see part 2)
+    return {
+        "is_correct": is_correct,
+        "model_response": response
+    }
+
+# Run the task immediately to test it
+# kbench.llm is the default model pre-loaded in this environment
+solve_riddle.run(
+    llm=kbench.llm,
+    riddle="What gets wetter as it dries?",
+    answer="Towel",
+)
