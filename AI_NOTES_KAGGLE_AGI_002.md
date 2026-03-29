@@ -462,3 +462,70 @@ That's how it works. Not so clever. Zero magic. But poly_dimensional, yes!
 
 ### 
 
+
+QOM - quality of mind.
+
+Concept Constellations.
+
+Count the constellation.
+
+Ranking.
+
+TOPICS:
+
+Game Theory
+
+MetaLanguage
+
+Meta Cognition
+
+O - known FACULTIES of AGI.
+
+O - known ASPECTS of AI COGNITIVE ABILITIES.
+
+TEST TRUE UNDERSTANDING.
+
+NEOLOGISM - test true understanding.
+
+O - JUDGE ability to express the SAME_CONCEPT_NEW_WORDS.
+
+Assess CONGNITIVE FACULTIES.
+
+1) Learning 2) metacognition 3) attention 4) executive function 5) social cog.
+
+"Reveal exactly how close we are to achieve AGI"
+
+"fluid intelligence"
+
+- Empirical Framework to MEASURE: inference from recollection.
+
+- isolate specific cognitive abilities.
+
+- resist shortcut logic
+
+- expose systematic falure modes.
+
+- how system learns, metacognition, and navigates nuance.
+
+- high-quality benchmarks designed to dig deeperthan standard evaluations.
+
+datasets that isolate cognitive abilities
+
+cognitive profiles for frontier models.
+
+- "What can this benchmark tell us about model behavior that we could not see before?"
+
+- contribute to fast-growing field of AI research.
+
+- Change AGI from speculation intogrounded anchored measurable science.
+
+
+NOVEL SCIENCE FIELD of NEOLOGISTICS!
+
+> Define faculty in extra exact tokens.
+
+AGI approach is the wrong vector.
+
+We will never be able to measure AI, compared to human - because the two are conceptually incongruent.
+
+An achievable goal is Actual Extra Intellect (AXI)
