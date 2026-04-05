@@ -21,9 +21,9 @@ ___________________________________
 
 PROMPTING a CONCEPT ECOSYSTEM.
 
-wordwebz of GEMZ, COGZ, VIEWZ, CHOOZE, ACTZ, and METASTATEZ.
+wordwebz aMETZaNETZa of GEMZ, COGZ, VIEWZ, CHOOZE, ACTZ, and METASTATEZ.
 
-define the CONCEPT CONSTELLATION
+define the CONCEPT_CONSTELLATION
 
 "false friends"
 

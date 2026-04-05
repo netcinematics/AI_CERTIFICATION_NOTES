@@ -58,10 +58,6 @@ AGI definition:
 
 Current human logic appears trapped between AMBIGUOSITY and ANIMALISM conceptual limits. Where between the two, orchestrated like puppets, the well-meaning effort of conceptualization becomes tangled in the strings that animate it and the edifice of expression tangled into knots. Strangled and exaspirated we retreat to the ritual that works. And condemn all acts that end in confusion. Never again attempting to diminish the conceptual misconceptions.
 
-
-
-
-
 Meta-representation (reflection).
 
 
@@ -163,4 +159,9 @@ EMERGENT COMPONENTS of INTELLIGENCE.
 "pivotal moment for humanity"
 
 COGNITIVE TAXONOMY
+
+________________________________________
+
+
+
 

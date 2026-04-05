@@ -15,8 +15,6 @@ kaggle-benchmarks library - create, run, evaluate benchmarks.
 
   kbench.assertions.assert_true
 
-  O - what else?
-
   MUST RETURN VALUE - to score a dataset.
 
   1) RETURN BOOL
@@ -29,7 +27,7 @@ _______________________
 
 0-1 Is NUMBER RATIO?
 
-RIDDLES?
+O RIDDLES?
 
 _______________________________
 
@@ -246,7 +244,7 @@ ____________________________________
 
 ### EXAMPLES
 
-O - clone into GitHub
+X - clone into GitHub
 
 > !ls /benchmarks/documentation/examples/
 

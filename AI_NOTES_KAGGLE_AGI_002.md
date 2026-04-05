@@ -529,3 +529,22 @@ AGI approach is the wrong vector.
 We will never be able to measure AI, compared to human - because the two are conceptually incongruent.
 
 An achievable goal is Actual Extra Intellect (AXI)
+
+______________________________________________________________
+
+ORIGIN STORY:
+
+I taught myself a new language for music lyrics.
+
+Then I taught Gemini to speak the new language.
+
+It was not as expected, the results were phenomenal.
+
+It repeats history - because nobody is deeply reading this (yet).
+
+You may be the first.
+
+>>> TRUE SEMANTIC ENGINEERING <<<
+
+
+

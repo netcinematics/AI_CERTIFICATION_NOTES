@@ -156,11 +156,59 @@ or
 
 - wors best for "genai" models.
 
+_________________________________________________
 
-> SOLUTION for AGI is a PARADIGM SHIFT - deeper into SCIENCE.
+
+
+____________________________________________________
+
+This paper is a WHITEPAPER REVIEW of METACOGNITION, building on the respectable references provided in the Google Deep Mind whitepaper: "Measuring Progress Toward AGI: A Cognitive Framework".
+
+This paper argues:
+
+> BRITTLE LANGUAGE results in BRITTLE KNOWLEDGE - and is why we have BRITTLE AGI BENCHMARKS. Simply stated, "We need better words".
 
 
 ### FORMAL PROPOSAL for "extra_exactness" of words as "WORDZ".
+
+#### STRUCTURE:
+
+The BENCHMARKES in this paper transfrom from "BASIS" to "PRO" to "EXTRA".
+
+To coin a PROCESS_of_NAMERATION - with ZERO hyphen_confusion, and ZERO CAPS_confusion! The "ALPHABITZ" System is ADAPTIVE, FLEXIBLE, and DYNAMIC!
+
+Proposing ACTUAL_REMEDY for Semantic_Drift with EXTRA_EXACTNESS.
+
+#### INSTRUCTIONS to READER:
+
+This paper only uses ONE SYNTAX ENHANCEMENT - the "underbar_syntax" ("_").
+The underbar_syntax shows how the adaptation of a single character ("_"), can bypass HYPHEN_CONFUSION, and simultaneously result in benefits of UNIVERSAL_TOKEN_UNIQUENESS, CONCEPT_EXACTNESS, and CLEAN_ROOM conceptualization. Thus avoiding distractions that lead to perpetual_confusion and endless_dispute.
+
+Perfect for AI to generate intellect - and simultaneously measure it precisely!
+
+> SIMPLIFIED use of underscore ("_") as a universal linguistic "linker_mechanism" of many bits of concepts - into singular, unique, and extra_exact concepts.
+
+It is "conceptual glue" to fuse any words together (without grammatic confusion/frustration) - and successfully arrive at COMBINABLE_CONCEPTS, known as CONCEPT_FUSION of "BITZ" into "WORDZ", using "ATOMIC_TOKENZ".
+
+> In principle: we_need_better_words.
+
+See how that works?
+
+### ABSTRACT:
+
+We can now group all PRINCIPLES, by extending the vocabulary to:
+
+> aPRINCIPZ_WE_NEED_BETTER_WORDZ.
+
+This paper will NOT cover little_a_syntax, or big_Z_syntax, or extraordinary_X_syntax. But they are AMAZING! And you can find them here: <LINK>
+
+Also, about CAPITALIZATION_CONFUSION - this paper capitalizes coined words (called "WORDZ" - per ISO 704 - designed to reduce ambiguity). To be interpreted as "easy_to_read" for long-form text (topic_scanning) enhancement. Expressly NOT interpreted as "shouting style", and NOT "angry" as described in "Netiquiette", for typographical context of Bullitin Board Systems (BBS) - in the 1980's. A well-intentioned etiquette that observably limits intellect - to half of the keyboard (unnecessarily reserving the other half of the keyboard - to anger. Amazingly, generating a limiting_bias against capitalization - which I've experienced the affect/effect of negative sterotype first hand. ALPHABITZ capitalization is derived from "Contract Law" and "Defined Terminology" of "House Style". Where uppercase is a reference to a global variable of precise definition (not shouting). It is a mechanistic use of capitalization. Not a fuzzy emotional projection - but a precise encoding for actual_extra_exactness. Exacting and clarifying - not projecting.
+
+> In principle, we need to move away from antiquated dictations that no longer benefit modern technology context. We need to innovate on new context adaptations - not echo antiquated habit memorizations.
+
+Thereby, a SOLUTION for AGI is seen as a MASSIVE_PARADIGM_SHIFT for academia and humanity - vastly deeper into SCIENCE (and nothing less). That perspective is held in focus for this paper.
+
+__________________________________________________________
 
 - A) PRINCIPLES of NAMERATION (level 4 innovation)
 
@@ -222,9 +270,6 @@ Functionally transforming biologic_language into digital_language. As a naturall
 With the advent of new technology (AI), this is reasonable for biologic_language for the first time in all human history - to be emergent in digital_languages. 
 
 ### SOLUTION_SPACE: 
-
-
-
 - AMBIGUITY, 
 - SEMANTIC_DRIFT,
 - PARADIGM_SHIFT,
