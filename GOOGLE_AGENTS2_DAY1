@@ -1,0 +1,143 @@
+"vibe coding" agents.
+
+rewriting rules of SDLC (software development life cycle).
+
+New Mechanics for SDLC. DEV interactions.
+
+- casual vibe coding.
+
+Serious - Agent Engineering.  NOT VIBE CODING.
+
+RIGID CONSTRAINTS.
+
+1) Formal specificatgions,
+
+2) automated test suites.
+
+3) CI GATES - automated checkpoints.
+
+CORE SKILL: CONTEXT ENGINEERING.
+
+____________________________________
+
+Balance 6 Contexts
+
+1) persona & instructions
+2) knowledge & docs, styleguides
+3) memory: short-term session logs, long-term project state
+4) examples: patterns of good word usage mimicry
+5) tools: api, cli, files
+6) guardrails: intersectors.
+
+STATIC_CONTEXT: baseline context
+
+"context rot" - attention mechanism loses focus with NOISE, loses SIGNAL.
+
+DYNAMIC_CONTEXT: information loaded on demand - AGENT SKILLS.
+
+- DB access for example. Does the Job and responds.
+
+________________________________________
+
+SDLC - is changing.
+
+timeline changes / shifts. Requirements, Design, IMplementation, Testing.
+
+Implementation drops from weeks to hours.
+
+Human bottlenecks shift: architecture and verification.
+
+"TRAJECTORY EVALUATION"
+
+"FACTORY MODEL"
+
+the output is the FACTORY .
+
+____________________________________________
+
+Anatomy of the Agent. 
+
+Agent = Model + Harness.
+
+Model = 10% of equation. Scaffolding - harness.
+
+1. Sandboxes - run and test code
+2. Orchestration - routes tasks to sub-acients.
+3. Observability - logs, results.
+
+AGENT DEIFT - loses plot and goes down rabbit hole.
+
+HARNESS:
+
+BENCHMARKS. Optimize the harness.
+
+________________________________
+
+AUDIT the HARNESS.
+
+Vague rule or missing guardrail
+
+________________________________
+
+DEV MODES
+
+CONDUCTOR / ORCHESTRATOR
+
+CONDUCTOR MODE: hands-on, cursor, guiding AI interactively. DEBUG, NAVIGATING.
+
+ORCHESTRATOR MODE: asynchronous, delegated, assigning goals to agents (tools in sandbox).
+
+Review Pull Request hours later.
+
+
+_____________________________________________
+
+80% problem
+
+final 20% - edge cases. 
+
+Require deep human conceptual knowledge.
+
+verification & strategy.
+
+Token Economy.
+
+CAPEX. OPEX. 
+
+HIgh CAPEX low OPEX
+
+_________________________________________________
+
+Intelligent Model Routing.
+
+strict verifiable discipline.
+
+harness acts as intelligent traffic cop
+
+formatting json to smaller models.
+
+game changer for token economy.
+
+code generation is solved problem.
+
+1)  CONTEXT ENGINEERING
+2)  TRAJECTORY EVALUATION
+3)  HARNESS DESIGN
+
+Intent is new Interface.
+
+Human builds FACTORY.
+
+Code Labs: 
+
+Agents.md
+
+build Sandbox.
+
+Build Harness.
+
+Radical workflow evolution.
+
+___________________________________________
+
+MENTORSHIP GAP.
