@@ -58,6 +58,218 @@ Global Scope (~/.gemini/skills/ or .agents/skills/): Available across all Antigr
 Product Scope: If you like that your skills should be available only to Antigravity or to the Antigravity CLI product, then you will have to put them inside the respective skills folder of the product. For Antigravity, this would be ~/.gemini/antigravity/skills/ and for Antigravity CLI, this would be ~/.gemini/antigravity-cli/skills/
 Project/Workspace Scope (<project-root>/.agents/skills/): This would make the skill available only within a specific project.
 
+_____________________________________________________________
+
+DAY 2 TOOLS - INTEROPERABILITY
+
+50 integrations to maintain. Tools.API. Multiple break all at once.
+
+Eliminate tool catastrophy.
+
+Set of open protocols. How AGENTS CONNECT TO PROTOCOLS.
+
+Syntax to INTENT in NATURAL LANGUAGE.
+
+Harness + Model. 
+
+MCP is like USB  .
+
+Server Sent Events SSE
+
+non monolithic.
+
+A2A universal language to find services.
+
+A to UI - dynamic user interfaces.
+
+Trusted component. 
+
+Universal C Protocol. UCP.
+
+__________________________________________________
+
+AUTOMATED TOOLS - breakthroughs.
+
+feedback loop - ai improves ai systems.
+
+accelleration continues.
+
+developing better tools!
+
+capability specification.
+
+intrinsically linked.
+
+Alphabit Soup of all tools - conventions for trusted interactions.
+
+pure research. not llm driven.
 
 
+________________________________________________________
 
+CODELAB
+
+AGENT TOOL INTEROOPERABILITY in ANTIGRAVITY
+
+- real-time and accurate - no hallucinations - API securely.
+
+- Configure MCP, to Google Cloud.
+
+- sustainable and reliable.
+
+### CLI
+
+TUI - Terminal User Interface.
+
+Install (not trusted!):
+
+curl -fsSL https://antigravity.google/cli/install.cmd -o install.cmd && install.cmd && del install.cmd
+
+agy --version
+
+/help /quit /config /settings settings.json
+
+agy -p = "prompt!"
+
+--model = model version
+
+! - gives access to BASH MODE!
+
+___________________________________________________________
+
+Globally Interoperable AI WORKFORCE.
+
+fundamental paradigm shift : agentic engineering.
+
+model + harness = agent.
+
+vibe coder = velocity.
+
+standard of 1 (fragile bespoke tools)
+
+low level conductor - to highlevel orchestrator.
+
+MCP - usbc port of agents harness.
+
+N X M = 50 interfaces
+
+O of N x M = exponential.
+
+update all the different integrations
+
+MCP simplifies:
+O of N + M = Linear
+
+Model talks to MCP protocol - MCP protocol talks to TOOL.
+
+Just add them together.
+
+STANDARD TRANSPORTS - Elevate to Orchestrator.
+
+STDIO
+
+SSE server sent events over HTTP - stream - remote MPC endpoint. 
+
+bespoke wrapper responsibility
+
+CONSUMPTION over CREATION
+
+(do not build from scratch if you dont have to).
+
+DISCOVERY - presourced MCP servers.
+
+scope - authentication.
+
+do not hardcode credentials - always environment variables.
+
+handshake - what tools are available.
+
+MCP servers are not safe!
+
+Model Armor. 
+
+inspects data flow.
+
+manage agents cognitive load.
+
+attention dilution
+
+exhaust context window.
+
+___________________________________
+
+only a tool when you need it.
+
+keep workspace clean.
+
+_________________________________
+
+hallucinate a tool call
+
+- innefficient to argue.
+
+- use dev tools.
+
+- not yell at ai to behave differenly.
+
+- MONOLITHIC CEILING.
+
+moving from monolithic web app to microservices.
+
+specialized sub agents.
+
+bounded vs unbounded domain.
+
+AI specialist is unbounded domain.
+
+_______________________________________
+
+A2A routing AGENT CARD.
+
+Billing Example
+
+A2A - 402 - microtransactions
+
+HTTP 402 : payment required.
+
+Invoice: lighning network invoice - 
+
+cryptographic proof of payment : macaroon.
+
+paying in milliseconds.
+
+_____________________________________________
+
+A2UI - dashboards.
+
+UI on the Fly. 
+
+XSS attack? 
+
+A2UI - sheet music.
+
+BRING YOUR OWN CATALOG.
+
+1) LLM GENERATES UI - intent-driven.
+
+2) bake schema into prompt
+
+3) DYNAMIC LEGO BLOCKS.
+
+__________________________________________________
+
+TOOL as TEMPLATE - JSON
+
+CANVAS APPROACH.  Collaborative Medium - bridges communication gap.
+
+____________________________________________________
+
+UCP and AP2 - commerce.
+
+cryptographic rule on device - mandate & handshake.
+
+trustless secure agentic commerce.
+
+___________________________________________________
+
+AUTONOMOUS FACTORY - is the next frontier.
