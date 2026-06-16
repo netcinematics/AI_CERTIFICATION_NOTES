@@ -1,0 +1,63 @@
+DAY 2
+
+conductor to orchestrator
+
+antigravity - automation tools / projects / AI.
+
+antigravity ide - separate.
+
+Artifacts.
+
+Scheduling Commands.
+
+MCP Servers.
+
+SKILLS:
+
+MY_SKILLZ:
+
+SKILLZ.md - metadata & instructions.
+
+scripts/ - JavaScript TOOLZ.
+TOOLZ/
+references/ - TXTZ
+TXTZ/
+assets/  - ASSETZ: images, logos
+IMGZ/
+
+________________________________________________
+
+### SKILLZ.md
+
+---
+name: code-review
+description: Reviews code changes for bugs, style issues, and best practices. Use when reviewing PRs or checking code quality.
+---
+
+# Code Review Skill
+
+When reviewing code, follow these steps:
+
+## Review checklist
+
+1. **Correctness**: Does the code do what it's supposed to?
+2. **Edge cases**: Are error conditions handled?
+3. **Style**: Does it follow project conventions?
+4. **Performance**: Are there obvious inefficiencies?
+
+## How to provide feedback
+
+- Be specific about what needs to change
+- Explain why, not just what
+- Suggest alternatives when possible
+
+________________________________________________________
+
+
+Global Scope (~/.gemini/skills/ or .agents/skills/): Available across all Antigravity products (Antigravity, Antigravity IDE, Antigravity CLI) and projects.
+Product Scope: If you like that your skills should be available only to Antigravity or to the Antigravity CLI product, then you will have to put them inside the respective skills folder of the product. For Antigravity, this would be ~/.gemini/antigravity/skills/ and for Antigravity CLI, this would be ~/.gemini/antigravity-cli/skills/
+Project/Workspace Scope (<project-root>/.agents/skills/): This would make the skill available only within a specific project.
+
+
+
+
