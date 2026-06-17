@@ -1,1 +1,158 @@
-Day 3
+Day 3 - Agent Skills.
+
+Massive encyclopedia - gets LLM dumber.
+
+More context not equal more capability.
+
+Attention Dillution.
+
+light-weight primitve : AGENT SKILL
+
+Avoid Context Rot.
+
+PORTABLE AGENT SKILLS.
+
+Directories around central SKILL.md file.
+
+.agents/some-skill/SKILL.md and other files.
+
+flex into hundreds of specialist roles efficeiently.
+
+NATURAL LANGUAGE PROMPTS.
+
+METADATA : name, when to use.
+
+scripts, references, assets.
+
+SEPARATE WHAT TO DO from how to do determinism.
+
+references - lots of TXT.
+
+assets - templates.
+
+PATH A - non technical
+PATH B - technical (skill folder)
+
+"PROGRESSIVE DISCLOSURE" - only visible when necessary.
+
+No giant md files.
+
+AGENT.md - global, always in CONTEXT - skills are on demand.
+
+_________________________________________
+
+context rot: magically solve all problems.
+
+dumping everything in.
+
+Lost in the middle study: prove - performance degrades silently as context grows - no error just dumber.
+
+"progressive disclosure" - triggers tools into context. keeps noise out. only load metadata for needed workflows.
+
+RAG pipeline.
+
+Progressive swap tools in out single agent - what about multi agent architecture?
+
+Multi agent reduced to security posture, swarm approach dying. 
+
+operational nightmare to maintain  mutli-agent.
+
+
+_______________________________________________________________
+
+STUDY: skills get ignored.
+
+1) trigger failuer (prompt vague)
+2) execution failure (instructions messy - hallucinated)
+3) token budget failure (massive unoptimized pdf)
+4) regression (new skill but calls old trigger in routing - break system with added skill)
+
+EDD - to avoid regression.
+
+Evaluation driven Development.
+
+Input, tools, output, defined up front.
+
+Testing skill in isolation.
+
+Run JSON evals (evils)
+
+then "TRAJECTORY SCORING" - exact, in order, out order.
+
+Score TRAJECTORY is better than ANSWER MEASURE.
+
+The ORDER of TOOL CALLS is evaluated NOT the ANSWER.
+
+Trajectory scoring - exact sequence of actions (in order scoring).
+
+SANDBOX - demo to deploy app. shatters in production.
+
+raarely model problem - environment fit problem.
+
+__________________________________________________
+
+STUDY: claude 98.4& operational infrastructure - 
+:permission
+retry
+compaction
+
+1.5% prompt reasoning loop.
+
+foundation model is commodity - guard rails are key.
+
+LLM is not Asset. The harness it the asset.
+
+_________________________________________________
+
+Sandbox
+
+1) read only : LLM as Judge
+2) draft only : HITL
+3) action allowed : pass to the K
+
+Pass to the K - sustained reliability.
+
+PATH B Developers.
+
+_____________________________________________________
+
+METASKILLS
+
+authoring
+assisted authoring
+optimize skill
+library evolution.
+
+notices problem and makes adjustments.
+
+evolve own operating optimizations.
+
+pristine evaluation suite.
+
+non negotiable - must add every change to LIBRARY at DRAFT tier.
+
+HITL - for the first few edits.
+
+___________________________________________________________
+
+ORCHESTRATION CHALLENGE.
+
+context rot - cannot use CONTEXT as DATABASE.
+
+DAG - directed acyclic graph.
+
+DAG ORCHESTRATION.
+
+acyclic - no cycles - no loops -map of dependencies.
+
+capability profiles over file message bus.
+
+ONLY PASS URL of FILE.
+
+SHIFT INTELLIGENCE LEFT.
+
+RELY on constraints not engineering.
+
+script tools. 
+
+
