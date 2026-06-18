@@ -116,7 +116,7 @@ PATH B Developers.
 
 _____________________________________________________
 
-METASKILLS
+META-SKILLS
 
 authoring
 assisted authoring
@@ -243,5 +243,85 @@ skills macro
 
 on demand loading with name and description.
 
+_________________________________________________________________
 
+1st Party Skill
+
+pin versions aggressively
+
+audit code before adoption.
+
+monolith of software fails, because of nuance in data formats.
+
+AGENT SKILLS - data format shifted to DOMAIN EXPERTS.
+
+- PROJECT GUIDANCE SKILL
+
+- data goes in BUS
+
+- triggers materials list SKILL
+
+- delivery window SKILL
+
+- availability SKILL.
+
+- strategic moat: version controlled institutional knowledge.
+
+_____________________________________________________
+
+1) folder SKILL.md
+
+2) PROGRESSIVE_DISCLOSURE defeats ATTENTION_DILUTION and CONTEXT_ROT.
+
+3) TRAJECTORY_SCORING - catches AGENT that stumbles into answers.
+
+4) DAG and file msg bus - deploy - DISTRIBUTED LIBRARY of INSTITUTIONAL KNOWLEDGE.
+
+WHILE AVOIDING a MASSIVE TRAFFIC JAM. Profound Shift.
+
+NOT SMARTER - highly structured and deterministic.
+
+________________________________________________________________________________________________
+5-day of AI agents, Vibe coding intensive cours and capstone" by Google, as Google Developer member (gold).
+_____________________________________________________________________________________________________
+
+
+
+EVALUATION-DRIVEN DEVELOPMENT (EDD) - thre JSON evaluation cases:
+1) Input, Tools, Output.
+2) FUNCTIONAL SPECIFICATION.
+
+LLM JUDGE, scores OUTPUT.
+
+"remember two non-negotiables: swap the positions of the reference and actual outputs to eliminate ordering bias"
+
+upfront: evaluation rubric, input parameters, and tool trajectroies.
+
+1) CONDITIONAL - triggered only when needed.
+2) COMPOSIABLE - one skill can call another. or "chain downstreams".
+3) they are owned.
+
+
+"CONTEXT OVERFLOW"
+
+_______________________________________________
+
+1) humans write the first version of every skill.
+2) manage regressions
+3) frontier: AGENT PROPOSES SKILLS based on NETWORK TRAFFIC.
+
+EVALUATION GATES - tight - rigid - 
+
+_______________________________________________
+
+avoid circular dependencies.
+
+pass state,
+reference tools
+
+> Naive prompt chaining to PRDICTABLE ORCHESTRATION.
+
+DAG ORCHESTRATION:
+
+1) DECOUPLE STATE - for state routing.
 
