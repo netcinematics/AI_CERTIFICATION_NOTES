@@ -1,0 +1,200 @@
+DAY 4
+
+Non-deterministic - zero rigid blueprint.
+
+deterministic unit tests - gone.
+
+deterministic to vibe to non-deterministic - working software.
+
+"AMBIENT AGENCY" - trust. 
+
+CROSS MEMORY VECTOR POISONING - concepts near each other.
+
+Strict math walls - "TENENT PARTITIONING".
+
+"VIBE LOOP" - chaotic cycle - AI code / recode / fix.
+
+ENVIRONMENT PRISTINE.
+
+"SLOP SQUATTING" - LLM make up library name it needs, but does not exist.
+
+- upload malware into imaginary name - pull malware into enterprise.
+
+NO MORE OPEN INTERNET. Heavily vetted registrys.
+
+Egress - how data flows out.
+
+Basic web browsing - malicious text - highjacking.
+
+Approved website - with prompt injection.
+
+non-interactive cached web access - automated security scanner.
+
+Agents take path of least resistance. 
+
+dump keys into frontend screen - scrape keys.
+
+"developer linters locally."
+
+nothing ships wihout deterministic scan.
+
+"forged server" as "MCP spoofing".
+
+"Centralized Agent gateways" - bouncer.
+
+"confused deputy problem".
+
+"zero ambient authority" - spiffy passport.
+
+"vibe diff" - plain english summary
+
+"fuzzy natural language intent"
+
+human conceptualization is very slow.
+
+cryptographic confirmation key.
+
+> "We need AI to monitor AI."
+
+"RED TEAM", - attacks
+"BLUE TEAM" - defends (agbom sbom)
+"Ag bom ba" - agent bom ba.
+"S bom ba" - static code bom ba
+
+bill of materials.
+
+"GREEN TEAM" - is the fixer.
+
+"Stateful quarantine" - timeout freeze
+
+system autonomously uses
+
+__________________________________________________
+
+Agent tell you everything it does.
+
+Log what is happening with agent.
+
+What tools, parameters - telemetry.
+
+LOG AS MUCH INFO AS POSSIBLE - for trace.
+
+Agent JUDGES - assist with OPEN TELEMETRY.
+
+POLICY - monitor agent.
+
+- SANDBOX - EPHEMERAL ENVIORONMENT - PROXY ENVIRONMENT:
+
+- restrict within SANDBOX - JIT CREDENTIALS. Admin access.
+
+- life of JIT token in box.
+
+NOT EXFILTRATE DATA - do not send data to internet - egress - outbound traffic.
+
+SET UP SPECIFIC GATEWAYS to ALLOWED URLS.
+
+_______________________________________________________
+
+guardrails to guardrails to guardrails.
+
+deterministic guardrails.
+
+cryptographic tokens. Even if security agent hallucinates.
+
+RED, BLUE, GREEN teams - HITL review code. 
+
+HUMANS ALSO HALLUCINATE.
+
+INFRASTRUCTURE around entire situation.
+
+anything can hallucinate.
+
+__________________________________________________________
+
+anti-pattern guardrail tracking.
+
+Specify Layers.
+
+Trust does not scale with layers.
+
+Layer Strategy.
+
+Clear role.
+
+Single point of failure.
+
+Quality not Quantity.
+
+_____________________________________________________________
+
+CLUSTER CORRECTIONS and STRUCTURE into CATEGORIES.
+
+feedback loop - of failure in the future.
+
+____________________________________________________________
+
+USER INTENT ALIGNMENT - do not optimize outside alignemnt.
+
+Catch as much information as possible - log and trace telemetry.
+
+What is breaking point of reasoning steps.
+
+USER INTENT - FLAG CORRECTIONS for review. (lock down - record - use for future use)
+
+NOT a BLACK and WHITE EVALUATION. 
+
+NO FULL EVAL SUITE for everythign.
+
+Optimize cost, latency - depends on use case.
+
+____________________________________________________
+
+SECURITY THREAT on TIMELINE - vibe trajectory.
+
+agbom - expected behavior and boundary (APA - aganet analytics) - detect drift!
+
+1) interrupt, 2) alert 3) end case
+
+put on timeline - observe trajecory - with stress scores.
+
+false positive - one misalign - no trust- kill?
+
+slight misalign - repair - costly - or efficiently?
+
+_________________________________________________________
+
+PII - personal identifiable information.
+
+Test agent in adk playground - afent through check point - bumped for human review.
+
+__________________________________________________________
+
+INTENT DRIVEN DEVELOPMENT
+
+CONTEXT.md
+
+security hooks - no keys being committed. 
+
+agent hooks - run commands listed - not others.
+
+new skill - scan through everthing working as expected. make fix autonomously.
+
+TEST DRIVEN DEVELOPMENT
+
+outcome based tests.
+
+verify codes work as they should be.
+
+PyTEST.
+
+scan logs. refactor vulnerable code - update test suite.
+
+TESTING LOCALLY. ADK PLAYGROUND.
+
+______________________________________________________
+
+UNDERSPECIFICATION GAP
+
+SAE - standard kaggle agent exams.
+
+______________________________________________________
