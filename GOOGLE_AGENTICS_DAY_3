@@ -188,3 +188,91 @@ fact tecal to
 personalized assistant 
 lear personalize
 
+
+______________________________________________
+
+The SKILL.md file is the brain of the Skill. It tells the agent what the skill is, when to use it, and how to execute it.
+
+YAML Frontmatter
+
+This is the metadata layer. It is the only part of the skill that is indexed by the agent's high-level router. When a user sends a prompt, the agent semantic-matches the prompt against the description fields of all available skills.
+
+
+---
+name: database-inspector
+description: Use this skill when the user asks to query the database, check table schemas, or inspect user data in the local PostgreSQL instance.
+---
+
+The Markdown Body
+
+The body contains the instructions. This is "prompt engineering" persisted to a file. When the skill is activated, this content is injected into the agent's context window.
+
+The body should include:
+
+Goal: A clear statement of what the skill achieves.
+Instructions: Step-by-step logic.
+Examples: Few-shot examples of inputs and outputs to guide the model's performance.
+Constraints: "Do not" rules (e.g., "Do not run DELETE queries").
+Example SKILL.md Body:
+
+_____________________________________________________________________
+
+Database Inspector
+
+Goal
+To safely query the local database and provide insights on the current data state.
+
+Instructions
+- Analyze the user's natural language request to understand the data need.
+- Formulate a valid SQL query.
+ - CRITICAL: Only SELECT statements are allowed.
+- Use the script scripts/query_runner.py to execute the SQL.
+ - Command: python scripts/query_runner.py "SELECT * FROM..."
+- Present the results in a Markdown table.
+
+Constraints
+- Never output raw user passwords or API keys.
+- If the query returns > 50 rows, summarize the data instead of listing it all.
+
+_______________________________________________________
+
+Script Integration
+One of the most powerful features of Skills is the ability to delegate execution to scripts. This allows the agent to perform actions that are difficult or impossible for an LLM to do directly (like binary execution, complex mathematical calculation, or interacting with legacy systems).
+
+Scripts are placed in the scripts/ subdirectory. The SKILL.md references them by relative path.
+
+________________________________________________________
+
+Using Antigravity or Antigravity CLI
+Skills can be defined at two scopes, allowing for both project-specific and user-specific i.e. global skills.:
+
+Global Scope (~/.gemini/config/skills/): Available across all Antigravity products (Antigravity, Antigravity IDE, Antigravity CLI) and projects. These skills are available across all projects on the user's machine. This is suitable for general utilities like "Format JSON," "Generate UUIDs," "Review Code Style," or integration with personal productivity tools.
+Project/Workspace Scope (<project-root>/.agents/skills/): This would make the skill available only within a specific project. This is ideal for project-specific scripts, such as deployment to a specific environment, database management for that app, or generating boilerplate code for a proprietary framework.
+
+
+__________________________________________________________
+
+JSON to PYDANTIC
+
+2. **Run the Validation Script**:
+  Use the `run_command` tool to execute the python script provided in the `scripts/` folder against the user's file.
+ 
+  `python scripts/validate_schema.py <path_to_user_file>`
+
+____________________________________
+
+
+"ACTION & LIFECYCLE" Pattern
+
+- scaffolding, boilerplate files, local runtime,.
+package in specific agent skills.
+
+_____________________________________
+
+How to Install
+Ensure you have Python 3.11+, Node.js, and the uv package manager installed. Then, run the setup command in your terminal:
+
+
+uvx google-agents-cli setup
+
+
