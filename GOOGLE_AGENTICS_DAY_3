@@ -275,4 +275,23 @@ Ensure you have Python 3.11+, Node.js, and the uv package manager installed. The
 
 uvx google-agents-cli setup
 
+_______________________________________
+
+Start the Interactive Web Playground
+Launch the built-in, local web-based playground to interact with your agent visually.
+
+
+agents-cli playground
+
+Project Scope: Located in <project-root>/.agent/skills/.
+Global Scope: Located in ~/.gemini/antigravity-cli/skills/.
+
+_____________________________________________________
+
+Vibe Coding:
+
+ natural language becomes the primary programming interface, and learn how to create \"10x agents\" by integrating tools, APIs, and multi-agent systems. 
+
+
+
 
